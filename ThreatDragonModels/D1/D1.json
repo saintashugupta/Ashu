@@ -103,6 +103,9 @@
               "id": "8041ee74-26df-43e9-a9b6-496c67bc2d44",
               "z": 2,
               "hasOpenThreats": false,
+              "isALog": true,
+              "storesCredentials": true,
+              "isEncrypted": true,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
@@ -226,6 +229,7 @@
               "id": "ca0e76f2-3801-4659-b05b-1cbef11d30a0",
               "z": 7,
               "hasOpenThreats": false,
+              "storesCredentials": false,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
